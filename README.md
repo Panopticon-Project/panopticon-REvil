@@ -7,3 +7,5 @@ https://www.flashpoint-intel.com/blog/darkside-ransomware-links-to-revil-difficu
 https://www.wired.com/story/kaseya-supply-chain-ransomware-attack-msps
 
 https://www.welivesecurity.com/2021/07/03/kaseya-supply-chain-attack-what-we-know-so-far/
+
+https://securelist.com/revil-ransomware-attack-on-msp-companies/103075/
