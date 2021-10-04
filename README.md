@@ -17,3 +17,5 @@ https://blog.malwarebytes.com/reports/2021/08/analysts-strongly-believe-the-russ
 https://www.securityweek.com/continuous-updates-everything-you-need-know-about-kaseya-ransomware-attack
 
 https://www.bleepingcomputer.com/news/security/revil-ransomware-is-back-in-full-attack-mode-and-leaking-data/
+
+https://www.securityweek.com/two-prolific-ransomware-operators-arrested-ukraine - maybe
