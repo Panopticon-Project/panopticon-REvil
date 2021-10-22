@@ -19,3 +19,5 @@ https://www.securityweek.com/continuous-updates-everything-you-need-know-about-k
 https://www.bleepingcomputer.com/news/security/revil-ransomware-is-back-in-full-attack-mode-and-leaking-data/
 
 https://www.securityweek.com/two-prolific-ransomware-operators-arrested-ukraine - maybe
+
+https://techcrunch.com/2021/10/18/revil-ransomware-group-goes-dark-after-its-tor-sites-were-hijacked/
