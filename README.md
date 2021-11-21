@@ -25,3 +25,5 @@ https://techcrunch.com/2021/10/18/revil-ransomware-group-goes-dark-after-its-tor
 https://www.securityweek.com/revil-ransomware-gang-hit-law-enforcement-hack-back-operation
 
 https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/
+
+https://www.interpol.int/News-and-Events/News/2021/Joint-global-ransomware-operation-sees-arrests-and-criminal-network-dismantled
