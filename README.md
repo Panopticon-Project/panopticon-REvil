@@ -29,3 +29,7 @@ https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-rewar
 https://www.interpol.int/News-and-Events/News/2021/Joint-global-ransomware-operation-sees-arrests-and-criminal-network-dismantled
 
 https://www.wired.com/story/ransomware-revil-arrest-kaseya/
+
+https://www.wired.com/story/russia-revil-ransomware-arrests-ukraine/
+
+https://www.securityweek.com/russia-lays-smackdown-revil-ransomware-gang
