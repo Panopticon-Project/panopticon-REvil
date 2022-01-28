@@ -33,3 +33,5 @@ https://www.wired.com/story/ransomware-revil-arrest-kaseya/
 https://www.wired.com/story/russia-revil-ransomware-arrests-ukraine/
 
 https://www.securityweek.com/russia-lays-smackdown-revil-ransomware-gang
+
+https://www.securityweek.com/revil-ransomware-operations-apparently-unaffected-recent-arrests
