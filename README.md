@@ -35,3 +35,5 @@ https://www.wired.com/story/russia-revil-ransomware-arrests-ukraine/
 https://www.securityweek.com/russia-lays-smackdown-revil-ransomware-gang
 
 https://www.securityweek.com/revil-ransomware-operations-apparently-unaffected-recent-arrests
+
+https://www.securityweek.com/alleged-ukrainian-hacker-us-court-after-extradition-poland
