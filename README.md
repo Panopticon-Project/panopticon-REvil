@@ -37,3 +37,5 @@ https://www.securityweek.com/russia-lays-smackdown-revil-ransomware-gang
 https://www.securityweek.com/revil-ransomware-operations-apparently-unaffected-recent-arrests
 
 https://www.securityweek.com/alleged-ukrainian-hacker-us-court-after-extradition-poland
+
+https://www.wired.com/story/apple-ransomware-attack-quanta-computer/
