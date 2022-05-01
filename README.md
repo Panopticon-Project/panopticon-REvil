@@ -39,3 +39,5 @@ https://www.securityweek.com/revil-ransomware-operations-apparently-unaffected-r
 https://www.securityweek.com/alleged-ukrainian-hacker-us-court-after-extradition-poland
 
 https://www.wired.com/story/apple-ransomware-attack-quanta-computer/
+
+https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/
