@@ -34,6 +34,8 @@ https://www.wired.com/story/russia-revil-ransomware-arrests-ukraine/
 
 https://www.securityweek.com/russia-lays-smackdown-revil-ransomware-gang
 
+https://www.bleepingcomputer.com/news/security/revil-ransomware-returns-new-malware-sample-confirms-gang-is-back/ - however, I've seen online people state it is one person from the original group with the source code, not the whole group.
+
 https://www.securityweek.com/revil-ransomware-operations-apparently-unaffected-recent-arrests
 
 https://www.securityweek.com/alleged-ukrainian-hacker-us-court-after-extradition-poland
