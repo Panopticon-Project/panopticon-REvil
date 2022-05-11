@@ -43,3 +43,5 @@ https://www.securityweek.com/alleged-ukrainian-hacker-us-court-after-extradition
 https://www.wired.com/story/apple-ransomware-attack-quanta-computer/
 
 https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/
+
+https://www.secureworks.com/blog/revil-development-adds-confidence-about-gold-southfield-reemergence
