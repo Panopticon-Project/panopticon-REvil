@@ -49,3 +49,5 @@ https://www.secureworks.com/blog/revil-development-adds-confidence-about-gold-so
 https://www.kommersant.ru/doc/5369361
 
 https://www.cyberscoop.com/revil-prosecutions-reach-a-dead-end-russian-media-reports/
+
+https://www.europol.europa.eu/media-press/newsroom/news/five-affiliates-to-sodinokibi/revil-unplugged
