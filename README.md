@@ -55,3 +55,5 @@ https://www.europol.europa.eu/media-press/newsroom/news/five-affiliates-to-sodin
 https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F94b56170-3989-4616-9872-9656af0cabb6_1025x702.png
 
 https://www.bbc.com/news/world-australia-63564544
+
+https://securityscorecard.pathfactory.com/research/detailed-analysis-revil
